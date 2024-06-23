@@ -1,0 +1,56 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dumith's Personal Webpage</title>
+    <!-- Add any additional meta tags, links to stylesheets, or scripts here -->
+    <style>
+        /* Add your custom CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        h1, h2, h3 {
+            margin: 20px 0;
+            color: #007bff;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        /* Add more styles as needed */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Dumith's Personal Webpage</h1>
+    </header>
+    <div class="container">
+        <section>
+            <h2>About Me</h2>
+            <p>Hi there! I'm Dumith, and I'm passionate about various things in life. My interests include [passions]. Feel free to explore my webpage to learn more about me!</p>
+        </section>
+        <section>
+            <h2>Passions</h2>
+            <p>One of my greatest passions is [passion]. I find joy and fulfillment in [description of passion]. It fuels my creativity and drives me to pursue excellence in this area.</p>
+            <!-- Add more sections for other passions if needed -->
+        </section>
+        <section>
+            <h2>Contact Me</h2>
+            <p>If you'd like to get in touch with me, feel free to send an email to [your email address]. I'd love to connect and chat about our shared interests!</p>
+        </section>
+    </div>
+    <!-- Add any additional scripts or footers here -->
+</body>
+</html>
